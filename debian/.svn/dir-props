@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 58
+xsfbs   svn://necrotic.deadbeast.net/xorg-x11/trunk/xsfbs
+
+END

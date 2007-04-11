@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2102"
+   name=""
+   committed-date="2006-05-05T07:37:46.379007Z"
+   url="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11/trunk/lib/libfontenc/debian"
+   last-author="ender"
+   kind="dir"
+   uuid="2474b701-27f1-0310-8811-ca38e86ffbfd"
+   repos="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11"
+   prop-time="2006-04-22T13:50:33.000000Z"
+   revision="2113"/>
+<entry
+   committed-rev="815"
+   name="control"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-11-01T02:03:13.590407Z"
+   checksum="3610c0c18925f38d50028c65f90e3e96"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="815"
+   name="compat"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-11-01T02:03:13.590407Z"
+   checksum="48a24b70a0b376535542b996af517398"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="815"
+   name="libfontenc-dev.install"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-11-01T02:03:13.590407Z"
+   checksum="d50db27f3c7756804680bd9e43d28d8b"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="2116"
+   name="changelog"
+   text-time="2006-05-09T05:08:04.000000Z"
+   committed-date="2006-05-09T05:07:40.161027Z"
+   checksum="a9938fede4a331902f9fc47f47a850df"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-05-09T03:13:01.000000Z"
+   revision="2116"/>
+<entry
+   committed-rev="815"
+   name="copyright"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-11-01T02:03:13.590407Z"
+   checksum="96254c20ab81c63e65b26f0dbcd4a1c1"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="815"
+   name="libfontenc1.install"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-11-01T02:03:13.590407Z"
+   checksum="71b26ff2ad2623fe4674532bc4cf25d3"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="2116"
+   name="rules"
+   text-time="2006-05-09T05:06:24.000000Z"
+   committed-date="2006-05-09T05:07:40.161027Z"
+   checksum="dcd5f4823c1a084aa32d78595e64954c"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-05-09T03:13:01.000000Z"
+   revision="2116"/>
+</wc-entries>

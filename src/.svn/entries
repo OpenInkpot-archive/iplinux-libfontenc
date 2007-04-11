@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="979"
+   name=""
+   committed-date="2005-12-30T00:24:15.252317Z"
+   url="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11/trunk/lib/libfontenc/src"
+   last-author="dnusinow"
+   kind="dir"
+   uuid="2474b701-27f1-0310-8811-ca38e86ffbfd"
+   repos="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11"
+   revision="2113"/>
+<entry
+   committed-rev="979"
+   name="encparse.c"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="4c921c38c96c1edc570afe2f538ea32b"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="Makefile.in"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="3f55d22677d1c9f6dcad25b384a5818d"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="Makefile.am"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="445d4d276b53e12d56d4a43e9f46e17c"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="fontencI.h"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="7806350dc73625a7e63d7489edb439b5"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="fontenc.c"
+   text-time="2006-04-22T13:50:33.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="6bb2903e837009d416a2b07d2061f7eb"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+</wc-entries>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2102"
+   name=""
+   committed-date="2006-05-05T07:37:46.379007Z"
+   url="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11/trunk/lib/libfontenc"
+   last-author="ender"
+   kind="dir"
+   uuid="2474b701-27f1-0310-8811-ca38e86ffbfd"
+   repos="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11"
+   revision="2113"/>
+<entry
+   committed-rev="979"
+   name="mkinstalldirs"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="792922784eade1d03ecb1b33ba8bb7c3"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:31.000000Z"/>
+<entry
+   committed-rev="979"
+   name="configure"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="13716d3e05d256ac91af20c555a6603f"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="Makefile.in"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="db4465bb8b5316b09f3baafb707c2848"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   name="debian"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="979"
+   name="AUTHORS"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="depcomp"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="7e26ecc61d5c27c50d334ebe19d5ef06"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="ChangeLog"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="8f9c019b628a31c5c3aad84267731697"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="979"
+   name="config.guess"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="7fc030a85a8f3d4864a65db5fb70c794"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="ltmain.sh"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="e0ed40aa0515801d6297eb2bfe0f7e99"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="README"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="config.sub"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d5b7ac5e2592566b86f8b0a609f43486"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:33.000000Z"/>
+<entry
+   committed-rev="979"
+   name="config.h.in"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="3e47f0079c997e865b72d535924d4200"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="fontenc.pc.in"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="588ffd3087691fe9aee12849b23882a1"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="configure.ac"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d41329c1aec957f0d6a6db82322ac8d8"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="INSTALL"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="COPYING"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="4641deddaa80fe7ca88e944e1fd94a94"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="Makefile.am"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="61d8cd43e1a0dc7d931d70239c65e0fe"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="missing"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="0a5e8ed778878a2656e3ea2313dac833"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="autogen.sh"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="a3bf19b468b62c882b323c74bdbb8df7"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="NEWS"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="aclocal.m4"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="0904469557922c3862c2a4443fc1e2e9"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+<entry
+   committed-rev="979"
+   name="install-sh"
+   text-time="2006-04-22T13:50:34.000000Z"
+   committed-date="2005-12-30T00:24:15.252317Z"
+   checksum="d4c3da374db4aa2301a21ab3e51ddb21"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:50:34.000000Z"/>
+</wc-entries>

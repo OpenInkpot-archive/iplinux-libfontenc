@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="979"
+   name=""
+   committed-date="2005-12-30T00:24:15.252317Z"
+   url="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11/trunk/lib/libfontenc/include/X11"
+   last-author="dnusinow"
+   kind="dir"
+   uuid="2474b701-27f1-0310-8811-ca38e86ffbfd"
+   repos="svn+ssh://necrotic.deadbeast.net/var/lib/svn/xorg-x11"
+   revision="2113"/>
+<entry
+   name="fonts"
+   kind="dir"/>
+</wc-entries>

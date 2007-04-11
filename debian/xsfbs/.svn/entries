@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1813"
+   name=""
+   committed-date="2006-04-16T00:19:59.366086Z"
+   url="svn://necrotic.deadbeast.net/xorg-x11/trunk/xsfbs"
+   last-author="dnusinow"
+   kind="dir"
+   uuid="2474b701-27f1-0310-8811-ca38e86ffbfd"
+   repos="svn://necrotic.deadbeast.net/xorg-x11"
+   revision="2113"/>
+<entry
+   committed-rev="1813"
+   name="xsfbs.mk"
+   text-time="2006-04-22T13:55:47.000000Z"
+   committed-date="2006-04-16T00:19:59.366086Z"
+   checksum="8a2e038085bda72cd893d2a83089e474"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:55:47.000000Z"/>
+<entry
+   committed-rev="1407"
+   name="xsfbs-autoreconf.mk"
+   text-time="2006-04-22T13:55:47.000000Z"
+   committed-date="2006-03-07T05:42:07.600487Z"
+   checksum="25e691c35cf76161540edae3c350040e"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:55:47.000000Z"/>
+<entry
+   committed-rev="1252"
+   name="xsfbs.sh"
+   text-time="2006-04-22T13:55:47.000000Z"
+   committed-date="2006-02-21T01:09:51.414530Z"
+   checksum="d39243aad9be186fa1c96210194f140f"
+   last-author="dnusinow"
+   kind="file"
+   prop-time="2006-04-22T13:55:47.000000Z"/>
+</wc-entries>
