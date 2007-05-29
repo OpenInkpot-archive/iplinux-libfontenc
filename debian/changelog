@@ -1,3 +1,9 @@
+libfontenc (1:1.0.1-7) unstable; urgency=low
+
+  * New build dependencies
+
+ -- Sergey Lapin <slapin@slind.org>  Tue, 29 May 2007 19:22:50 +0400
+
 libfontenc (1:1.0.1-6) unstable; urgency=low
 
   [ David Martínez Moreno ]
