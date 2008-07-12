@@ -22,6 +22,7 @@ Description: X11 font encoding library
  :pserver:anoncvs@cvs.freedesktop.org:/cvs/xorg
 
 Package: libfontenc1-dbg
+Section: debug
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libfontenc1 (= ${Source-Version})
 Description: X11 font encoding library (debug package)
@@ -39,6 +40,7 @@ Description: X11 font encoding library (debug package)
  :pserver:anoncvs@cvs.freedesktop.org:/cvs/xorg
 
 Package: libfontenc-dev
+Section: libdevel
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libfontenc1 (= ${Source-Version}), zlib1g-dev
 Description: X11 font encoding library (development headers)

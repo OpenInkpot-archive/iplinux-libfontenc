@@ -1,3 +1,11 @@
+libfontenc (1:1.0.1-8.oi1) unstable; urgency=low
+
+  * First build for OI:
+    - -dbg package moved to debug section.
+    - -dev package moved to libdevel section.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 12 Jul 2008 19:22:17 +0700
+
 libfontenc (1:1.0.1-8) unstable; urgency=low
 
   * Change maintainer.
