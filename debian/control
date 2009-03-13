@@ -1,0 +1,47 @@
+Source: libfontenc
+Section: gui
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+XCS-Cross-Host-Build-Depends: debhelper (>= 7), autoconf, automake, libtool, pkg-config, xorg-util-macros
+XCS-Cross-Build-Depends: x11proto-core-dev, libz1-dev
+Build-Depends: debhelper (>= 7), autoconf, automake, libtool, x11proto-core-dev, libz1-dev, pkg-config, xorg-util-macros
+Standards-Version: 3.8.0
+
+Package: libfontenc1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: X11 font encoding library
+ libfontenc is a library which helps font libraries portably determine
+ and deal with different encodings of fonts.
+ .
+ More information about X.Org can be found at:
+ <URL:http://xorg.freedesktop.org>
+ <URL:http://lists.freedesktop.org/mailman/listinfo/xorg>
+
+Package: libfontenc1-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libfontenc1 (= ${binary:Version})
+Description: X11 font encoding library (debug package)
+ libfontenc is a library which helps font libraries portably determine
+ and deal with different encodings of fonts.
+ .
+ This package contains the debug versions of the library found in libfontenc1.
+ Non-developers likely have little use for this package.
+ .
+ More information about X.Org can be found at:
+ <URL:http://xorg.freedesktop.org>
+ <URL:http://lists.freedesktop.org/mailman/listinfo/xorg>
+
+Package: libfontenc-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libfontenc1 (= ${binary:Version}), libz1-dev
+Description: X11 font encoding library (development headers)
+ libfontenc is a library which helps font libraries portably determine
+ and deal with different encodings of fonts.
+ .
+ This package contains the development headers for the library found in
+ libfontenc1.  Non-developers likely have little use for this package.
+ .
+ More information about X.Org can be found at:
+ <URL:http://xorg.freedesktop.org>
+ <URL:http://lists.freedesktop.org/mailman/listinfo/xorg>
